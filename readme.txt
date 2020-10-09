@@ -5,3 +5,4 @@ Git tracks changes.
 Add first line.
 Can human intelligence be transformed to machine intelligence? If so, what is the basic mechanisn?
 check the user name.
+Creating a new branch is quick.
